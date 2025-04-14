@@ -12,10 +12,10 @@ Este programa, cuenta cuántas veces aparece una palabra en una cadena y resalta
 - **Python** 3.6 o superior.
 
 ## Cómo ejecutar
-1. Descarga la carpeta `Solucion 4`.
+1. Descarga la carpeta `Solucion_4`.
 2. Abre un terminal y navega a la carpeta con:
    ```bash
-   cd ruta/a/Solucion 4
+   cd ruta/a/Solucion_4
 3. Ejecuta el programa con: 
         python cadena_ocurrencias.py
 4. Ingresa la cadena y la palabra que deseas buscar cuando el programa lo solicite:

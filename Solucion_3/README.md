@@ -1,7 +1,7 @@
 # Proyecto: Evaluador de Expresiones Aritmeticas
 
 ## Descripción
-Este programa calcula los coeficientes de un polinomio de la forma (x+1)^n utilizando el triángulo de Pascal, y evalúa paso a paso el polinomio para un valor de x dado.
+Este programa evalúa expresiones aritméticas que incluyen operadores básicos (`+`, `-`, `*`, `/`) y números en notación científica. Permite calcular de forma directa con entrada proporcionada por el usuario.
 
 ## Estructura
 - `aritmetica.py`: Contiene el código fuente del programa.
@@ -12,10 +12,10 @@ Este programa calcula los coeficientes de un polinomio de la forma (x+1)^n utili
 - **Python** 3.6 o superior.
 
 ## Cómo ejecutar
-1. Descarga la carpeta `Solucion 3`.
+1. Descarga la carpeta `Solucion_3`.
 2. Abre un terminal y navega a la carpeta con:
    ```bash
-   cd ruta/a/Solucion 3
+   cd ruta/a/Solucion_3
 3. Ejecuta el programa con: 
         python aritmetica.py
 4. Ingresa una expresión aritmética cuando el programa lo solicite.

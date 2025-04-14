@@ -12,10 +12,10 @@ Este programa calcula los coeficientes de un polinomio de la forma (x+1)^n utili
 - **Python** 3.6 o superior.
 
 ## Cómo ejecutar
-1. Descarga la carpeta `Solucion 2`.
+1. Descarga la carpeta `Solucion_2`.
 2. Abre un terminal y navega a la carpeta con:
    ```bash
-   cd ruta/a/Solucion 2
+   cd ruta/a/Solucion_2
 3. Ejecuta el programa con: 
         python polinomios.py
 4. Ingresa el grado del polinomio (n) y el valor de (x) cuando el programa lo solicite. 
