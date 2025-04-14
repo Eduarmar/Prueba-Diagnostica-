@@ -25,14 +25,14 @@ def calcular_polinomio(coeficientes, x):
     return resultado, pasos
 
 def main():
-    # Solicitar entrada del usuario
+    
     n = int(input("Ingrese un número entero no negativo n: "))
     x = float(input("Ingrese el valor de x: "))
     
-    # Generar coeficientes del polinomio
+    
     coeficientes = generar_coeficientes_polinomio(n)
     
-    # Mostrar el polinomio
+    
     polinomio = " + ".join([f"{coef}x^{n-i}" if i < n else f"{coef}" for i, coef in enumerate(coeficientes)])
     print(f"Polinomio generado para (x+1)^{n}: {polinomio}")
     
